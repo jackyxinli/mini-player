@@ -1,4 +1,6 @@
 # mini-player
+![Animation](https://github.com/jackyxinli/mini-player/blob/main/mini-player_XnNrTGb9pc.gif)<br/>
+
 ## Windows 10<br/>
 ![Spectrum Analyzer](https://github.com/jackyxinli/mini-player/blob/main/windows-01.png)<br/>
 ![Spectrogram](https://github.com/jackyxinli/mini-player/blob/main/windows-02.png)<br/>
